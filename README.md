@@ -243,8 +243,8 @@ dfinal.groupby("zipcode").revenue_10years.sum().reset_index().sort_values('reven
 ## Conclusions 
 
 The zipcodes that can make the money that was invested back quickly are 11003, 10306, 10304, 10303, and 11434
- Zipcodes 11434, 10305, and 11234 are the ones that generate the most revenue
 
-* If the company is willing to buy properties having high cost then they should invest in Zipcodes 10011, 10025 and 10036 because these zipcodes not only have high number of costly properties but also provide very high return as the rent is very high
+Zipcodes 11434, 10305, and 11234 are the ones that generate the most revenue
+
 
 
